@@ -35,11 +35,14 @@ My Commute Assistant App은 출근길 시간을 도와주는 앱입니다. 실�
 ### 프로젝트 실행 방법
 1. Flutter SDK 설치
    : Flutter 공식 웹사이트(https://docs.flutter.dev/get-started/install)에서 OS에 맞는 Flutter SDK를 다운로드하고 설치합니다.
-   설치 후 압축을 푼 다음 Flutter를 PATH에 추가합니다. (export PATH="$PATH:`pwd`/flutter/bin")
-   터미널에서 flutter doctor 명령어를 실행하여 설치가 올바르게 되었는지 확인합니다.
-2. Android Studio를 열고 해당 프로젝트 엽니다.
-3. 터미널을 열어 flutter pub get를 입력해 종속성을 해결합니다.
-4. Android 디바이스 또는 에뮬레이터를 선택하고 빌드 및 실행합니다.
+2. 환경 변수 설정 
+   : 설치 후 압축을 푼 다음 Flutter를 PATH에 추가합니다. (export PATH="$PATH:`pwd`/flutter/bin")
+     터미널에서 flutter doctor 명령어를 실행하여 설치가 올바르게 되었는지 확인합니다.
+3. flutter와 dart 플러그인 설치
+   : 안드로이드 스튜디오를 실행하여 프로젝트의 설정 항목에서 Plugins를 찾아 클릭합니다. 그리고 flutter와 dart를 검색해 플러그인을 설치에 주면 됩니다.
+5. Android Studio를 열고 해당 프로젝트 엽니다.
+6. 터미널을 열어 flutter pub get를 입력해 종속성을 해결합니다.
+7. Android 디바이스 또는 에뮬레이터를 선택하고 빌드 및 실행합니다.
 
 ## 실제 앱 실행 방법
 1. 안드로이드에 [app-release.apk](https://github.com/ahhyun1/my_own_commute_assistant/blob/5c7cb94b2e00c3684d42c74698723a6583591887/app-release.apk) 파일을 설치합니다.  

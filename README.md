@@ -42,7 +42,7 @@ My Commute Assistant App은 출근길 시간을 도와주는 앱입니다. 실�
    3. Android 디바이스 또는 에뮬레이터를 선택하고 빌드 및 실행합니다.
 
 ## 실제 앱 실행 방법
-1. 안드로이드에 [app-release.apk](build%2Fapp%2Foutputs%2Fflutter-apk%2Fapp-release.apk) 파일을 설치합니다.
+1. 안드로이드에 [app-release.apk](https://github.com/ahhyun1/my_own_commute_assistant/blob/5c7cb94b2e00c3684d42c74698723a6583591887/app-release.apk) 파일을 설치합니다.
    (본 프로젝트 안에는 build/app/outputs/flutter-apk/app-release.apk 이 경로를 따라가면 파일 찾을 수 있습니다.)
 2. 앱이 다운로드 완료 되면 실행 시작합니다.
 3. 알람 기능 사용을 위해 앱 처음 실행 시 알림 권한 허용 해주고 & 설정 앱에서 '알람 및 리마인더' 허용으로 바꿔줍니다.

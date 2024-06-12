@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487305311953",
+    "project_id": "my-own-commute-assistant-6cdae",
+    "storage_bucket": "my-own-commute-assistant-6cdae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487305311953:android:0620373241a9dfa213b7f0",
+        "android_client_info": {
+          "package_name": "com.example.my_commute_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKT2uCp0PgYIL7YJUpqDLFN-fNErqukmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
